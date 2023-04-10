@@ -1,0 +1,318 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	font-family:arial;
+}
+.header{
+	width:100%;
+	height:180px;
+	background-color:#3F3C3C;
+	
+}
+.header-text{
+	width:100%;
+	height:auto;
+	
+}
+.edu{
+	font-size:50px;
+	text-align:center;
+	color:white;
+	line-height:90px;
+}
+.design{
+	font-size:25px;
+	line-height:25px;
+	color:#00FD12;
+	text-align:center;
+}
+.img-logo{
+	float:left;
+	margin-top:-105px;
+	margin-left:20px;
+	
+}
+.nav{
+	width:100%;
+	height:auto;
+	background-color:blue;
+	
+}
+.nav-text{
+	display:flex;
+	margin-left:30px;
+	
+}
+.dropdown{
+	position:relative;
+	display:inline-block;
+}
+.dropbtn{
+	background-color:blue;
+	font-size:18px;
+	font-family:arial;
+	font-weight:bold;
+	color:white;
+	padding:18px;
+	border:none;
+	cursor:pointer;
+}
+.dropdown-content{
+	position:absolute;
+	display:none;
+	background-color:#f9f9f9;
+	min-width:200px;
+}
+.dropdown-content a{
+	text-decoration:none;
+	display:block;
+	font-family:arial;
+	font-size:17px;
+	color:black;
+	padding:12px 16px;
+}
+.dropdown-content a:hover{
+	background-color:#f1f1f1;
+}
+.dropdown:hover .dropdown-content{
+	display:block;
+}
+.text{
+	text-decoration:none;
+	color:		#FFD700	;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:200px;
+	margin-top:12px;
+}
+.head-title{
+	color:red;
+	margin-top:50px;
+	text-align:center;
+	word-spacing:5px;
+}
+.main-section{
+	width:100%;
+	
+}
+.block1{
+	background-color:	#DCDCDC;
+	width:100%;
+	
+	height:400px;
+	margin-top:50px;
+	
+}
+.im-logo{
+	width:100%;
+	padding:15px;
+}
+.imglogo{
+	margin-left:165px;
+	margin-top:40px;
+	display:inline-block;
+}
+.img-text{
+	display:inline-block;
+}
+.class1{
+	margin-left:165px;
+}
+.text1{
+	text-align:center;
+	margin-top:60px;
+	word-spacing:5px;
+}
+.content-img{
+	width:100%;
+	margin-left:30px;
+	margin-top:30px;
+}
+.text3{
+	display:inline-block;
+	margin-left:5px;
+}
+.buy-btn{
+	background:transparent;
+	border:none;
+	font-family:arial;
+	font-size:20px;
+	margin-left:56px;
+	
+}
+.buy-btn a{
+	text-decoration:none;
+	color:#e67e22;
+	border:2px solid #e67e22;
+	padding:8px 20px;
+}
+.j{
+	border:1px solid #333;
+}
+.buy-btn a:hover{
+	color:white;
+	background-color:#e67e22;
+	transition:0.5s;
+	padding:8px 20px;
+}
+.text4{
+	display:inline-block;
+	
+}
+.news-section{
+	margin-left:25px;
+	margin-top:20px;
+}
+.section-next{
+	margin-top:50px;
+}
+.last-section{
+	margin-top:40px;
+	
+}
+.block5{
+	width:100%;
+	height:380px;
+	margin-top:40px;
+	
+}
+.row{
+	width:100%;
+	height:auto;
+	
+}
+.contact-form{
+	width:100%;
+	margin-top:50px;
+}
+.contact{
+	font-family:arial;
+	font-weight:bold;
+	padding:5px;
+	width:25%;
+	font-size:20px;
+	line-height:30px;
+}
+.n{
+	font-family:arial;
+	font-size:25px;
+	color:#555;
+	float:left;
+	margin-left:20%;
+}
+.send{
+	margin-left:6%;
+}
+.send a{
+	text-decoration:none;
+	font-family:arial;
+	font-size:22px;
+	border:2px solid #e67e22;
+	border-radius:200px;
+	padding:8px 20px;
+	background-color:#e67e22;
+	color:#fff;
+}
+.send a:hover{
+	background-color:#D8800D;
+}
+.footer{
+	width:100%;
+	height:200px;
+	background-color:#333;
+	margin-top:50px;
+	
+}
+.footer-nav{
+	color:#333;
+}
+div ol{
+	padding:50px;
+}
+div ol li{
+	display:inline;
+	
+}
+div ol li a{
+	text-decoration:none;
+	color:#94918C;
+	font-family:arial;
+	padding:10px;
+	font-size:18px;
+}
+div ol li a:hover{
+	color:#ddd;
+}
+.c{
+	color:#94918C;
+	text-align:center;
+	font-family:arial;
+	font-size:24px;
+}
+.footer-img{
+	float:right;
+	margin-right:30px;
+	margin-top:-160px;
+}
+.niz{
+	color:white;
+	
+	padding:8px;
+	text-align:center;
+	margin-top:-25px;
+	width:100%;
+}
+#new-p{
+	float:right;
+	margin-right:22px;
+	
+}
+.borderimg{
+	border:2px;
+	border-radius:50px;
+}
+.section-3{
+	width:100%;
+	
+}
+.sec-content3{
+	width:100%;
+	background-color:#DCDCDC;
+	height:825px;
+	
+}
+.img-bigga{
+	margin-left:22px;
+	display:inline-block;
+	
+}
+.div10{
+	margin-left:250px;
+}
+.lasst-btn{
+	background:transparent;
+	border:none;
+	font-family:arial;
+	font-size:16px;
+	padding:10px 15px;;
+	border:2px solid blue;
+	color:#fff;
+	background-color:blue;
+	margin-left:29px;
+}
+.lasst-btn:hover{
+	color:blue;
+	background-color:#fff;
+	transition:.5s;
+}
+.d{
+	color:pink;
+	font-weight:bold;
+	text-align:center;
+	font-size:18px;
+	
+}
